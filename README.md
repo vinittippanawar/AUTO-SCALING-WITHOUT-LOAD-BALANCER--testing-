@@ -76,11 +76,11 @@ Hands-on project demonstrating AWS Auto Scaling without a Load Balancer — usin
 ---
 
 ## Technologies Used
--AWS EC2
--Amazon Machine Image (AMI)
--Launch Template
--Auto Scaling Group
--Ubuntu + Nginx
+- AWS EC2
+- Amazon Machine Image (AMI)
+- Launch Template
+- Auto Scaling Group
+- Ubuntu + Nginx
 
 ---
 
