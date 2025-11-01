@@ -82,9 +82,8 @@ Hands-on project demonstrating AWS Auto Scaling without a Load Balancer — usin
 - Auto Scaling Group
 - Ubuntu + Nginx
 
----## ✍️Author
+✍️Author
 **Vinit Tippanawar**  
-
-Cloud Computing Enthusiast | AWS Learner  
+cloud Computing Enthusiast | AWS Learner  
 
 
